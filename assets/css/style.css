@@ -112,7 +112,7 @@ p {
     color: #ffffff;
 }
 
-/*hello*/
+
 .content-section img {
     max-height: 200px;
 }
@@ -133,3 +133,29 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+
+Comments
+I was having issues commiting in the beginning so there are only a few commits. 
+
+HTML
+Line 11, 26 changed to just header tag
+Line 29, 36, 37, 43, 44, 50, changed div to section
+Line 75, 81 change div class to just footer 
+Added alt tags on lines 30, 38, and 45
+
+Line 11, 26 to header
+Line 13, 25 div to section 
+Changed sections to match html
+Line 76 , 81 change div class to footer
+
+
+CSS
+Deleted online reputation and social media marketing margin, padding and height style and changed search engine optimization to content section. 
+Changed html section id class for search engine optimization, online reputation, and social media marketing, to content section. 
+Then changed image classes to content section. 
+Deleted repetition with online reputation img, and social media marketing img. 
+Changed h2 elements to content section and deleted repetition.
+Changed benefit classes to benefit section and then deleted repetition with cost and brand. 
+Changed all div classes to benefit section in html and css
+
