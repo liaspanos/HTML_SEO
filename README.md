@@ -4,4 +4,6 @@ This is a website for marketing strategies with alt text. There are three links 
 ## Table of Contents
 
 ## About
-The purpose of this challenge is to refactor code base to achieve the given acceptance criteria. Such as using semantic html elements, using alt attributes for images, and organizing the code to be concise and in sequential order.
+The purpose of this challenge is to refactor code base to achieve the given acceptance criteria. Such as using semantic html elements, using alt attributes for images, and organizing the code to be concise and in sequential order. In this project I deleted style repetition in css and changed the html sheet to match. I also tried to reduce div tags. 
+
+## Link
