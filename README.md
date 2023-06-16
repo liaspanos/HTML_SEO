@@ -11,4 +11,4 @@ https://liaspanos.github.io/HTML_SEO/
 
 ## Screenshot
 
-![alt text](https://github.com/[liaspanos]/[HTML_SEO]/blob/[branch]/![IMG_2515](https://github.com/![IMG_2515](https://github.com/liaspanos/HTML_SEO/assets/134657123/2467824a-979d-4b32-a923-31253fa207ac)?raw=true)
+![IMG_2515](https://github.com/![IMG_2515](https://github.com/liaspanos/HTML_SEO/assets/134657123/2467824a-979d-4b32-a923-31253fa207ac)?raw=true)
